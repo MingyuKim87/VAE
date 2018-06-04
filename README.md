@@ -28,6 +28,7 @@ In this example, we introduce 2-Dimensional latent space unit.
 
 For exploiting latent space in VAE, we generate and put synthetic mesh-grid data (-4:4, -4:4) into the VAE model as hidden variable, Z instead of training set data. 
 
+![Reconstruction_Image2](https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_2.gif)
 
 <table align = ‘center’>
 <tr align = ‘center’>
@@ -58,7 +59,6 @@ The implementation is based on the projects:
 [2] https://github.com/fastforwardlabs/vae-tf/tree/master  
 [3] https://github.com/kvfrans/variational-autoencoder  
 [4] https://github.com/altosaar/vae
-
 [5] https://github.com/hwalsuklee/tensorflow-mnist-VAE
 
 ## Acknowledgements
