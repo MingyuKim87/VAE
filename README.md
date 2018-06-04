@@ -19,8 +19,8 @@ In this example, we introduce 2-Dimensional latent space unit.
 <td> Reproduced Image </td>
 </tr>
 <tr>
-  <td><img src = ‘Results/Input_Image.jpg’ height = ‘150px’></img>
-  <td><img src = ‘Results/Reconstruction_1.gif’ height = ‘150px’></img>
+  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Input_Image.jpg’ height = ‘150px’></img>
+  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_1.gif’ height = ‘150px’></img>
 </tr>
 </table>
 
@@ -34,7 +34,7 @@ For exploiting latent space in VAE, we generate and put synthetic mesh-grid data
 <td> Reproduced Image from synthetic latent space </td>
 </tr>
 <tr>
-  <td><img src = ‘Results/Reconstruction_2.gif’ height = ‘150px’></img>
+  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_2.gif’ height = ‘150px’></img>
 </tr>
 </table>
 
@@ -48,7 +48,7 @@ Visualizations of learned data manifold for generative models with 2-dim. latent
 <td> Distribution of labeled data </td>
 </tr>
 <tr>
-  <td><img src = ‘Results/Manifold_learning.gif’ height = ‘150px’></img>
+  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Manifold_learning.gif’ height = ‘150px’></img>
 </tr>
 </table>
 
