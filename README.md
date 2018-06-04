@@ -59,7 +59,7 @@ The implementation is based on the projects:
 [2] https://github.com/fastforwardlabs/vae-tf/tree/master  
 [3] https://github.com/kvfrans/variational-autoencoder  
 [4] https://github.com/altosaar/vae
-[5] https://github.com/hwalsuklee/tensorflow-mnist-VAE
+ [5] https://github.com/hwalsuklee/tensorflow-mnist-VAE
 
 ## Acknowledgements
 This implementation has been performed in Tensorflow 1.7 on Ubuntu 16.04.
