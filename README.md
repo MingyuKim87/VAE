@@ -19,8 +19,8 @@ In this example, we introduce 2-Dimensional latent space unit.
 <td> Reproduced Image </td>
 </tr>
 <tr>
-  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Input_Image.jpg’ height = ‘150px’></img>
-  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_1.gif’ height = ‘150px’></img>
+  <td>![Input_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Input_Image.jpg)
+  <td>![Reconstruction_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_1.gif)
 </tr>
 </table>
 
@@ -34,7 +34,7 @@ For exploiting latent space in VAE, we generate and put synthetic mesh-grid data
 <td> Reproduced Image from synthetic latent space </td>
 </tr>
 <tr>
-  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_2.gif’ height = ‘150px’></img>
+  <td>![Reconstruction_Image2](https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_2.gif)
 </tr>
 </table>
 
@@ -48,7 +48,7 @@ Visualizations of learned data manifold for generative models with 2-dim. latent
 <td> Distribution of labeled data </td>
 </tr>
 <tr>
-  <td><img src = ‘https://github.com/MingyuKim87/VAE/blob/master/Results/Manifold_learning.gif’ height = ‘150px’></img>
+  <td>![Manifold_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Manifold_learning.gif)
 </tr>
 </table>
 
@@ -58,6 +58,7 @@ The implementation is based on the projects:
 [2] https://github.com/fastforwardlabs/vae-tf/tree/master  
 [3] https://github.com/kvfrans/variational-autoencoder  
 [4] https://github.com/altosaar/vae
+
 [5] https://github.com/hwalsuklee/tensorflow-mnist-VAE
 
 ## Acknowledgements
