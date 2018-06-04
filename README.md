@@ -33,7 +33,7 @@ For exploiting latent space in VAE, we generate and put synthetic mesh-grid data
 Visualizations of learned data manifold for generative models with 2-dim. latent space are given in Figure. 4 in the paper.  
 
 
-*Manifold Image 
+*Manifold Image <p>
 ![Manifold_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Manifold_learning.gif)
 
 
@@ -42,7 +42,7 @@ The implementation is based on the projects:
 [1] https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/vae  
 [2] https://github.com/fastforwardlabs/vae-tf/tree/master  
 [3] https://github.com/kvfrans/variational-autoencoder  
-[4] https://github.com/altosaar/vae 
+[4] https://github.com/altosaar/vae <p>
 [5] https://github.com/hwalsuklee/tensorflow-mnist-VAE
 
 
