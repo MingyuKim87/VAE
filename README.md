@@ -4,8 +4,8 @@ An implementation of variational auto-encoder (VAE) for MNIST represented by Kin
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114) by Kingma et al. 
 * This implementation is referred from [hwalsuklee’s tutorial](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 
-Different from the hwalsuklee’s program, this tutorial is not required to use other class file or functional set file. Within IPython notebook file, all operations in VAE are performed.
-
+Different from the hwalsuklee’s program, this tutorial is not required to use other class file or functional set file. 
+Within IPython notebook file, all operations in VAE are performed.
 
 ## Result
 ### Reproduce
