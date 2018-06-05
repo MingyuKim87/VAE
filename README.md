@@ -11,7 +11,7 @@ Within this IPython notebook, all operations in VAE are performed.
 ## Result
 ### Reproduce
 
-Given training set data, VAE architecture can generate the similar images without any label.<p>
+Given training set data, VAE architecture can generate the similar images without any label.<br>
 In this example, we introduce 2-Dimensional latent space unit. 
 
 * Input Image  
@@ -30,7 +30,7 @@ For exploiting latent space in VAE, we generate and put synthetic mesh-grid data
 
 ### Learned MNIST manifold
 
-Visualizations of learned data manifold for generative models with 2-dim.<p>
+Visualizations of learned data manifold for generative models with 2-dim.<br>
 Latent space are given in Figure. 4 in the paper.  
 
 
