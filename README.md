@@ -1,6 +1,6 @@
 # Variational Auto Encoding
 
-An implementation of variational auto-encoder (VAE) for MNIST represented by Kingma et al. Paper(2013)
+An implementation of variational auto-encoding (VAE) for MNIST represented by Kingma et al. Paper(2013)
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114) by Kingma et al. 
 * This implementation is referred from [hwalsuklee’s tutorial](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 
