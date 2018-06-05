@@ -30,7 +30,8 @@ For exploiting latent space in VAE, we generate and put synthetic mesh-grid data
 
 ### Learned MNIST manifold
 
-Visualizations of learned data manifold for generative models with 2-dim. latent space are given in Figure. 4 in the paper.  
+Visualizations of learned data manifold for generative models with 2-dim.  
+latent space are given in Figure. 4 in the paper.  
 
 
 * Manifold Image  
