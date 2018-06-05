@@ -8,7 +8,7 @@ Different from the hwalsuklee’s program, this tutorial is not required to use 
 Within this IPython notebook, all operations in VAE are performed.
 
 
-## Result
+## Results
 ### Reproduce
 
 Given training set data, VAE architecture can generate the similar images without any label.<br>
