@@ -48,4 +48,4 @@ The implementation is based on the projects:
 
 
 ## Acknowledgements
-This implementation has been performed in Tensorflow 1.7 on Ubuntu 16.04.
+This implementation has been performed on Tensorflow 1.7 in Ubuntu 16.04.
