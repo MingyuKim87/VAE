@@ -18,7 +18,7 @@ In this example, we introduce 2-Dimensional latent space unit.
 ![Input_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Input_Image.jpg)
 
 * Recounstruction Image  
-![Reconstruction_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_1.gif)
+![Reconstruction_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/PRR.gif)
 
 
 ### Reconstruction
@@ -26,7 +26,7 @@ In this example, we introduce 2-Dimensional latent space unit.
 For exploiting latent space in VAE, we generate and put synthetic mesh-grid data (-4:4, -4:4) into the VAE model as hidden variable, Z instead of training set data. 
 
 * Reconstruction Image  
-![Reconstruction_Image2](https://github.com/MingyuKim87/VAE/blob/master/Results/Reconstruction_2.gif)
+![Reconstruction_Image2](https://github.com/MingyuKim87/VAE/blob/master/Results/PMLR_Reconstruction.gif)
 
 ### Learned MNIST manifold
 
@@ -35,7 +35,7 @@ Latent space are given in Figure. 4 in the paper.
 
 
 * Manifold Image  
-![Manifold_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/Manifold_learning.gif)
+![Manifold_Image](https://github.com/MingyuKim87/VAE/blob/master/Results/PRML_Map.gif)
 
 
 ## References
